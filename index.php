@@ -11,7 +11,7 @@
     <h1><?php echo "hello" ?></h1>
     <p><?php echo "world" ?></p>
     <p><?php echo "world" ?></p>
-
+<img src="Screenshot.png" width="200px" alt="">
 
 </body>
 </html>
