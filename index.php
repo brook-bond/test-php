@@ -13,6 +13,7 @@
     <p><?php echo "world" ?></p>
     <p><?php echo "world" ?></p>
 <img src="Screenshot.png" width="500px" alt="">
+<?php echo 'new' ?>
 
 </body>
 </html>
